@@ -13,6 +13,8 @@ public class Ejercicio2 {
         System.out.println("El segundo nro ingresado es:  "+ b);
         System.out.println("El tercer nro ingresado es:  "+ c);
         
+        
+        
         scan.close();
 
         
