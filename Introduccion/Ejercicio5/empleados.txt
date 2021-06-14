@@ -1,0 +1,4 @@
+Edgardo,Duarte,01-05-1986,40000
+Andrea,Rodriguez,01-09-1998,60000
+Pablo,Ojeda,30-12-1962,66000
+Monica,Pagez,12-09-1995,70000
